@@ -99,6 +99,7 @@ sub_ecosystems = [
   "Pulse",
   "PureBlock",
   "PureFi Protocol",
+  "Quex",
   "Quic Swap",
   "Realis Network",
   "ReCheck",
@@ -22948,6 +22949,14 @@ url = "https://github.com/QueendomVerse/wallet-adapter"
 
 [[repo]]
 url = "https://github.com/QuentinMr/Near_Marketplace"
+missing = true
+
+[[repo]]
+url = "https://github.com/quex-tech/near_hack_contract"
+missing = true
+
+[[repo]]
+url = "https://github.com/quex-tech/near_hack_backend"
 missing = true
 
 [[repo]]
